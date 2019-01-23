@@ -2,7 +2,7 @@
 
 
 /***********************************************
-* Name: Takeshwari Kamal
+* Name: Aakash Tripathi
 * Email: kamalt4@students.rowan.edu
 ***********************************************
 * Purpose:
