@@ -1,9 +1,7 @@
 
-
-
 /***********************************************
 * Name: Aakash Tripathi
-* Email: kamalt4@students.rowan.edu
+* Email: tripat67@students.rowan.edu
 ***********************************************
 * Purpose:
 *  This program calculates area of circle
@@ -18,7 +16,7 @@ const  float PI = 3.14159;
 int main()
 {
 
-	float radius, area, circumference;
+	float radius, circumference;
 	
 	//Display purpose of the program
 	cout << " ******************************************"<<endl;
@@ -30,10 +28,10 @@ int main()
 	cin >> radius;
 	
 	//Compute area to PI*radius*radius
-	area = PI* radius *radius; 
+	circumference = 2*PI*radius;
 	
 	//Display the area 
-	cout << " The area is = " << area << "\n\n";
+	cout << " The area is = " << circumference << "\n\n";
 	cout << "Program has ended"<<endl;
 
 	system("pause");
